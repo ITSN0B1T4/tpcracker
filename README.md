@@ -15,6 +15,7 @@ pkg install git -y
 pkg install python -y
 git clone https://github.com/ITSN0B1T4/tpcracker
 cd tpcracker
+pip install -r requirements.txt
 ````
 
 ## How to use :
